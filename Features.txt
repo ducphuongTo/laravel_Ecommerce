@@ -1,0 +1,21 @@
+This basis laravel ecommerce project has various features listed below:
+
+Customer Side:
+1. Login and Register
+2. Product quantity increment/decrement before adding to cart
+3. Add to Cart
+4.Checkout information validation before placing order
+5. Checkout Page
+6.View orders and order status
+7.User can review a product only after purchasing the product
+
+
+Admin Side:
+
+1.Category CRUD
+2.Product CRUD
+3.Control the visibility of product and category (Hide/Show)
+4.All Statistics on Dashboard (Total Orders, Uses, Completed Orders, etc)
+5.View Order and order items
+6.Update Order status
+7.View registered users
